@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.Material",
+  "_name": "map",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "c7b825f5-7a53-4e13-b750-e7747b611219"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "radius": 0.2,
+        "point": {
+          "__type__": "cc.Vec2",
+          "x": 0.5,
+          "y": 0.5
+        },
+        "bgAlpha": 0.8,
+        "whRatio": 1.2
+      },
+      "defines": {
+        "USE_TEXTURE": true,
+        "USE_LIGHT": true
+      }
+    }
+  }
+}
