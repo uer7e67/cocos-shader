@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.Material",
+  "_name": "miaobian",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "6e55a1bd-2f0a-4674-b3bd-358f8a3f9171"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      }
+    }
+  }
+}
